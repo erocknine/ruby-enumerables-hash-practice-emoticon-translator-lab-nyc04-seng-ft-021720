@@ -6,7 +6,7 @@ def load_library(yaml)
   hash[get_meaning] = {}
   hash[get_emoticon] = {}
   
-  return hash
+  hash
 end
 
 def get_japanese_emoticon
