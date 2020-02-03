@@ -7,7 +7,8 @@ def load_library(yaml)
   hash[get_emoticon] = {}
   
   emoticons.each do |key, value|
-    
+    get_meaning = emoticon[key]
+    get_emoticon = 
   
   hash
 end
